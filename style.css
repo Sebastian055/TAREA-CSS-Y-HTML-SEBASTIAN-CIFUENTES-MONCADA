@@ -1,0 +1,95 @@
+h2 {
+    font-size: 50px;
+    display: flex;
+}
+
+h2.Titulo{
+    font-family: 'Ephesis', cursive;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h3 {
+    color: black;
+    font-size: 25px;
+    display: flex;
+    
+}
+
+h3.Gusto-Perros {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aquamarine;
+    display: flex;
+
+}
+
+h3.Cariño-Perros{
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+    display: flex;
+}
+
+h3.Comida-Perros{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: yellow;
+    display: flex;
+}
+
+h3.Educacion-Perros{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+    display: flex;
+}
+
+h4.TipoDePerro {
+    font-size: 30px;
+    font-family: 'Ephesis', cursive;
+    display: flex;
+}
+
+h4.CosasQueOdian{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+
+}
+
+
+p {
+    color: grey;
+    font-size: 25px;
+    
+}
+
+ul {
+    font-size: 20px;
+
+}
+
+ol {
+    font-size: 20px;
+    
+}
+
+img.Imagen-Perros{
+    margin: 25px;
+    padding: 25px;
+    width: 200px;
+    border-width: 5px;
+    border-color: brown;
+    border-style: double;
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgb(46, 44, 40);
+}
+
+
